@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/6zcZb8U.png" />
 <!-- <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />-->
 <img align="left"    width="50px" height='50px' src="https://i.imgur.com/CKGJOXJ.png" alt='AWS' />
- <img align="left"    width="50px" height='50px' src="https://i.imgur.com/AXDOsg9.png" alt='AWS' />
+<!-- <img align="left"    width="50px" height='50px' src="https://i.imgur.com/AXDOsg9.png" alt='AWS' />-->
 	 
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
