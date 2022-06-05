@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <img align="left"  alt="Mohamed Mesto"  width="50px" height='50px' src="https://www.iconshock.com/image/Vista/3d_graphics/opengl" /> 
 	 
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/Ts.png" />
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://d2eip9sf3oo6c2.cloudfront.net/playlists/square_covers/000/432/674/square_480/egghead-practical-git-course.png" />
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/Py.png" />
 <!-- <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://img.freepik.com/free-vector/artificial-intelligence-concept-circuit-board-background-with-ai-logo-illustration_257312-1368.jpg?w=2000" />-->
 	    <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/AI.png" />
