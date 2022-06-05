@@ -60,7 +60,7 @@ Here are some ideas to get you started:
  <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="https://icon-library.com/images/vb-net-icon/vb-net-icon-2.jpg"  />
  <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="https://icon-library.com/images/vb-net-icon/vb-net-icon-0.jpg"  />
 <--!<img align="left"  alt='Mohamed Mesto'  width="50px" height='60px' src="https://3.imimg.com/data3/EI/OK/MY-987891/oracle-db-250x250.jpg"  />-->
- <img align="left"  alt='Mohamed Mesto'  width="50px" height='60px' src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGGC3a5TCrJLucrpWHf_I7NhCBqE8zMrxRg&usqp=CAU"  />
+<img align="left"  alt='Mohamed Mesto'  width="50px" height='60px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGGC3a5TCrJLucrpWHf_I7NhCBqE8zMrxRg&usqp=CAU"  />
 	   
     </td>
      <td border=0>
