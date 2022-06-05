@@ -82,12 +82,12 @@ Here are some ideas to get you started:
  
 <li>Py for Eng Examples </li>
 <li> Framework of exporting Coloab  Py and Latex to PDF with refernces</li>
-<li> QU LAB AI Algorithm supervised Learning - Py</li>
+<li> QU LAB AI Algorithm supervised Learning using Py</li>
 <li> OpenGL and VC++ app</li>
 <li> Android Studio - Learn App - Java</li>
-<li> Oracle UI and DB for Car agency</li>
-<li> Red Cross and red Crescent System Managment App c# and SQL server</li>
-
+<li> Car agency Managment System using Oracle UI and DB</li>
+<li> Red Cross and red Crescent Managment System App using c# and SQL server</li>
+<li> Ebdaa-Co website using PHP, HTML, CSS and JS </li>
 </ol>
 </td>
 	
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <ol>
  <a href="https://github.com/MohamedMesto/AWT-PJ-ss22-Video-Streaming-Mixer-Library-1"><li>Advanced Web Technologies Project Video Streaming Mixer Library - Node.js
 </li></a>
-<li>Translate Abix Package from De to Tr</li>
+<li>Translate Abix Package from De to Tr using PHP, HTML, CSS and JS</li>
 
 </ol>
 </td>
