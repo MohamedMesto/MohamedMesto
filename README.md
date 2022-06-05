@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 <img align="left"  alt="Mohamed Mesto" width="80px" height='50px' src="https://www.seekpng.com/png/detail/258-2582226_php-logo-free-download-png-php-logo-png.png" />
   <img align="left"  alt="Mohamed Mesto"  width="50px" height='50px' src="https://www.iconshock.com/image/Vista/3d_graphics/opengl" /> 
 	 
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/Ts.png" />
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/Py.png" />
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/Py.png" />
 <!-- <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://img.freepik.com/free-vector/artificial-intelligence-concept-circuit-board-background-with-ai-logo-illustration_257312-1368.jpg?w=2000" />-->
 	    <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/AI.png" />
  <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="https://icon-library.com/images/vb-net-icon/vb-net-icon-2.jpg"  />
