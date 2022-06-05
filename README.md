@@ -57,11 +57,7 @@ Here are some ideas to get you started:
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
  <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="https://icon-library.com/images/vb-net-icon/vb-net-icon-2.jpg"  />
- <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="https://www.1-more-thing.com/wp-content/uploads/2016/11/databases.png"  />	    
-	  
-	    
-	    
-	    
+ <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="https://www.1-more-thing.com/wp-content/uploads/2016/11/databases.png"  />	      
     </td>
      <td border=0>
       <img src='https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/MMM2050Profile.png'/ width=800 hight= 400>
