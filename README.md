@@ -30,10 +30,7 @@ Here are some ideas to get you started:
       </a> 
                 <a href='https://wa.me/+4915782178521'>
  <img align="left"  alt="Mohamed Mesto | gmail" width="40px" height='40px' src="https://i.imgur.com/6Od4ifD.png" />
-      </a>
-	    
-	    
-	    
+      </a>    
       <br/>
 <br/>
       <h2 font-color='red'>Skills : </h2>
