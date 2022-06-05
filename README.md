@@ -72,3 +72,26 @@ Here are some ideas to get you started:
       </td>
     </tr>  
     </table>
+
+<table>
+	
+## Next planned Projects to upload
+<table>
+<td>
+<ol>
+ 
+<li>Py for Eng Examples </li>
+<li> Framework of exporting Coloab  Py and Latex to PDF with refernces</li>
+<li> QU LAB AI Algorithm supervised Learning - Py</li>
+<li> OpenGL and VC++ app</li>
+<li> Android Studio - Learn App - Java</li>
+<li> Oracle UI and DB for Car agency</li>
+<li> Red Cross and red Crescent System Managment App c# and SQL server</li>
+
+</ol>
+
+</td>
+
+</table>
+
+
