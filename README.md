@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, MySQL, C#, SQLServer, VC++, OpenGL, API, VB, Oracle DB, and Oracle UI. But I have used early to upload my projects to several servers/hosts, e.g., Gitlab, Gitlab Tu Berlin,  Github, and others. You will not find projects right now showing my basic skills. But I am going to upload them day by day.
+I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Python, AI algorithm, MySQL, C#, SQLServer, VC++, OpenGL, API, VB, Oracle DB, and Oracle UI. But I have used early to upload my projects to several servers/hosts, e.g., Gitlab, Gitlab Tu Berlin,  Github, and others. You will not find projects right now showing my basic skills. But I am going to upload them day by day.
 <!--
 **MohamedMesto/MohamedMesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
