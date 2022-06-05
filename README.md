@@ -98,8 +98,6 @@ Here are some ideas to get you started:
 <ol>
  <a href="https://github.com/MohamedMesto/AWT-PJ-ss22-Video-Streaming-Mixer-Library-1"><li>Advanced Web Technologies Project Video Streaming Mixer Library - Node.js
 </li></a>
-
-<li> Framework of exporting Coloab  Py and Latex to PDF with refernces</li>
 <li>Translate Abix Package from De to Tr</li>
 
 </ol>
