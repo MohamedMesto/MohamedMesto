@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <img align="left"  alt="Mohamed Mesto | gmail" width="48px" height='48px' src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/googlemail-icon.png"/>
       </a> 
                 <a href='https://wa.me/+4915782178521'>
- <img align="left"  alt="Mohamed Mesto | gmail" width="40px" height='40px' src=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904"/>
+ <img align="left"  alt="Mohamed Mesto | gmail" width="40px" height='40px' src="  https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
       </a>    
       <br/>
 <br/>
