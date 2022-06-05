@@ -59,8 +59,7 @@ Here are some ideas to get you started:
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
  <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="https://icon-library.com/images/vb-net-icon/vb-net-icon-2.jpg"  />
  <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="https://icon-library.com/images/vb-net-icon/vb-net-icon-0.jpg"  />
-<!--<img align="left"  alt='Mohamed Mesto'  width="50px" height='60px' src="https://3.imimg.com/data3/EI/OK/MY-987891/oracle-db-250x250.jpg"  />-->
-<img align="left"  alt='Mohamed Mesto'  width="50px" height='60px' src="https://icon2.cleanpng.com/20180711/hhk/kisspng-oracle-database-oracle-corporation-postgresql-rela-oracle-logo-5b463b4f5a95b2.2777553615313293593711.jpg/>
+<img align="left"  alt='Mohamed Mesto'  width="50px" height='60px' src="https://icon2.cleanpng.com/20180711/hhk/kisspng-oracle-database-oracle-corporation-postgresql-rela-oracle-logo-5b463b4f5a95b2.2777553615313293593711.jpg"/>
     </td>
      <td border=0>
       <img src='https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/MMM2050Profile.png'/ width=800 hight= 400>
