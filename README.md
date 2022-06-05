@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <img align="left"  alt="Mohamed Mesto | gmail" width="48px" height='48px' src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/googlemail-icon.png"/>
       </a> 
                 <a href='https://wa.me/+4915782178521'>
- <img align="left"  alt="Mohamed Mesto | gmail" width="40px" height='40px' src="https://image.similarpng.com/very-thumbnail/2020/04/WhatsApp-logo-3d-button-social-media-png.png"/>
+ <img align="left"  alt="Mohamed Mesto | gmail" width="40px" height='40px' src=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904"/>
       </a>    
       <br/>
 <br/>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     </td>
      <td border=0>
-      <img src='https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/MMM.png'/ width=800 hight= 400>
+      <img src='https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/MMM2050Profile.png'/ width=800 hight= 400>
       </td>
     </tr>  
     </table>
