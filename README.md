@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 <h5> welcome to you 😀, feel free to contact me at:</h5>
 	 <a href='https://www.linkedin.com/in/mohamedmesto/'>
  <img align="left"  alt="Mohamed Mesto | LinkedIn" width="40px" height='40px' src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/128/Web-Linked-in-Metro-icon.png" />
- </a>
-	    
-		 <a href='https://www.xing.com/profile/Mohamed_Mesto2/cv'>
- <img align="left"  alt="Mohamed Mesto | Xing" width="40px" height='40px' src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/96/Xing-icon.png" />
+ </a> 
+<a href='https://www.xing.com/profile/Mohamed_Mesto2/cv'> <img align="left"  alt="Mohamed Mesto | Xing" width="40px" height='40px' src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/96/Xing-icon.png" />
  </a>    
   <a href='https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&su=subject+message&to=mohamedmesto111@gmail.com'>
  <img align="left"  alt="Mohamed Mesto | gmail" width="40px" height='40px' src="https://i.imgur.com/kn7FfLZ.png" />
