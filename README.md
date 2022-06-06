@@ -93,10 +93,11 @@ Here are some ideas to get you started:
 </td>
 	
 </table>
-## On Progress Projects
+## On Progress Thesis, Projects
 <table>
 <td>
 <ol>
+<li>Learned Sketch with Time-Awareness by Institut für Telekommunikationssysteme Verteilte offene Systeme <b>ODS</b></li>	
  <a href="https://github.com/MohamedMesto/AWT-PJ-ss22-Video-Streaming-Mixer-Library-1"><li>Advanced Web Technologies Project Video Streaming Mixer Library - Node.js
 </li></a>
 <li>Translate Abix Package from De to Tr using PHP, HTML, CSS and JS</li>
