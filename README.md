@@ -86,8 +86,8 @@ Here are some ideas to get you started:
 <li> QU LAB AI Algorithm supervised Learning using Py</li>
 <li> OpenGL and VC++ app</li>
 <li> Learn App with TTS Engine using Android Studio and Java</li>
-<li> Car agency Managment System using Oracle UI and DB</li>
-<li> Red Cross and red Crescent Managment System App using c# and SQL server</li>
+<li> Car agency Management System using Oracle UI and DB</li>
+<li> Red Cross and red Crescent Management System App using c# and SQL server</li>
 <li> Ebdaa-Co website using PHP, HTML, CSS and JS </li>
 </ol>
 </td>
