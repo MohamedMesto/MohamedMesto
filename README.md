@@ -81,7 +81,6 @@ Here are some ideas to get you started:
 <td>
 <ol>
  
-<li>Statistical Analysis and Engineering Acoustics Py - Examples </li>
 <li> Framework of exporting Coloab  Py and Latex to PDF with refernces</li>
 <li> QU LAB AI Algorithm supervised Learning using Py</li>
 <li> OpenGL and VC++ app</li>
