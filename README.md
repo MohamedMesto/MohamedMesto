@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 <td>
 <ol>
  <a href="https://github.com/MohamedMesto/MasterThesis-QU-DFKI-comparison-in-between-Emformer"><li> Master Thesis - Accented Speech Recognition by Institut für Softwaretechnik und Theoretische Informatik
-Quality and Usability Lab <b>QU</b> Deutsches Forschungszentrum für Künstliche Intelligenz <b>DFKI</b></li></a>	
+Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstliche Intelligenz <b>DFKI</b></li></a>	
 <li>Translate Web site - Abix Package from De to Tr using PHP, HTML, CSS and JS</li>
 
 </ol>
