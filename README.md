@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="counter/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;900&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+
+
 ### Hi there 👋
 I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Python, AI algorithm, MySQL, C#, SQLServer, VC++, OpenGL, API, VB, Oracle DB, and Oracle UI. But I have used early to upload my projects to several servers/hosts, e.g., Gitlab, Gitlab Tu Berlin,  Github, and others. You will not find projects right now showing my basic skills. But I am going to upload them day by day.
 <!--
@@ -105,3 +119,15 @@ Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstl
 	
 </table>
 
+   <div class="counter">
+
+        <div class="head">Total Website Visit</div>
+        <div class="count">00</div>
+
+    </div>
+
+
+    <script src='counter/script.js'></script>
+</body>
+
+</html>
