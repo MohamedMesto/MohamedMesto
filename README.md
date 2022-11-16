@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="counter/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;900&display=swap" rel="stylesheet">
-
-</head>
-<body>
 
 
 
@@ -28,6 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="counter/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;900&display=swap" rel="stylesheet">
+
+</head>
+<body>
 
 
 <table border=0>
@@ -118,15 +118,10 @@ Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstl
 </td>
 	
 </table>
-
    <div class="counter">
-
         <div class="head">Total Website Visit</div>
         <div class="count">00</div>
-
     </div>
-
-
     <script src='counter/script.js'></script>
 </body>
 
