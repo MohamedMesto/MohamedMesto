@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;900&display=swap" rel="stylesheet">
 
 </head>
-<body>
+
 
 
 <table border=0>
@@ -118,6 +118,7 @@ Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstl
 </td>
 	
 </table>
+<body>
    <div class="counter">
         <div class="head">Total Website Visit</div>
         <div class="count">00</div>
