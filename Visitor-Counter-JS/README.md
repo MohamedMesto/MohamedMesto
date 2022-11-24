@@ -1,2 +1,25 @@
 # Visitor-Counter-JS
 <a href="./index.html">AAA</a>
+
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="Visitor-Counter-JS/styles.css" />
+    <title>Unique Visitor Counter</title>
+  </head>
+  <body>
+    <div class="counter center">
+      <span>0</span>
+      <span>0</span>
+      <span>0</span>
+      <span>0</span>
+      <span>0</span>
+      <span>0</span>
+    </div>
+    <div class="center message">Unique Visits to this Page</div>
+    <script src="./index.js"></script>
+  </body>
+</html>
