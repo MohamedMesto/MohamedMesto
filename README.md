@@ -119,12 +119,4 @@ Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstl
 </td>
 	
 </table>
-	
-<body>
-
-<div class="counter">
-        <!-- <div class="head">Total Website Visit</div> -->
-        <div class="count">13145</div>
-	</div>
-	<script src='./counter/script.js'>13145 </script>
-</body>
+![Visitor Count](https://profile-counter.glitch.me/MohamedMesto/count.svg)
