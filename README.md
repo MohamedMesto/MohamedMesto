@@ -1,14 +1,4 @@
-
-<!--Head for the visitors counter--> 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <link rel="stylesheet" href="https://github.com/MohamedMesto/MohamedMesto/blob/main/counter/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;900&display=swap" rel="stylesheet">
-</head>
  
-
-
 ### Hi there 👋
 I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Python, AI algorithm, MySQL, C#, SQLServer, VC++, OpenGL, API, VB, Oracle DB, and Oracle UI. But I have used early to upload my projects to several servers/hosts, e.g., Gitlab, Gitlab Tu Berlin,  Github, and others. You will not find projects right now showing my basic skills. But I am going to upload them day by day.
 <!--
@@ -113,10 +103,8 @@ Here are some ideas to get you started:
  <a href="https://github.com/MohamedMesto/MasterThesis-QU-DFKI-comparison-in-between-Emformer"><li> Master Thesis - Accented Speech Recognition by Institut für Softwaretechnik und Theoretische Informatik
 Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstliche Intelligenz <b>DFKI</b></li></a>	
 <li>Translate Web site - Abix Package from De to Tr using PHP, HTML, CSS and JS</li>
-
 </ol>
-
-</td>
-	
+</td>	
 </table>
+	
 ![Visitor Count](https://profile-counter.glitch.me/MohamedMesto/count.svg)
