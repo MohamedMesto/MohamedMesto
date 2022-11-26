@@ -1,5 +1,5 @@
 
-<--! Head for the visitors counter--> 
+<!--Head for the visitors counter--> 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
