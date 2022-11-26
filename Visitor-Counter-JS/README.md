@@ -1,2 +1,0 @@
-# Visitor-Counter-JS
- 
