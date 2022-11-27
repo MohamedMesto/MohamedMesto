@@ -80,6 +80,11 @@ Here are some ideas to get you started:
 
 <table>
 	
+	
+![Visitor Count](https://profile-counter.glitch.me/MohamedMesto/count.svg)
+
+	
+	
 ## Next planned Projects to upload
 <table>
 <td>
@@ -106,7 +111,5 @@ Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstl
 </ol>
 </td>	
 </table>
-	
-![Visitor Count](https://profile-counter.glitch.me/MohamedMesto/count.svg)
 	
 Thanks for checking out my profile.
