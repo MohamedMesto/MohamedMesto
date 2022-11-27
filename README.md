@@ -79,14 +79,18 @@ Here are some ideas to get you started:
     </table>
 
 <table>
-	
-	
-	
-	
+</br></br>
+<table style="width:100%">
+  <tr>
+    <th align="center">
+	    
 ![Visitor Count](https://profile-counter.glitch.me/MohamedMesto/count.svg)
-
+</th> 
+  </tr>
+ 
+</table>
 	
-	
+ </br>
 ## Next planned Projects to upload
 <table>
 <td>
