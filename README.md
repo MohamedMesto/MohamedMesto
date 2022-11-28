@@ -91,7 +91,8 @@ Here are some ideas to get you started:
 </table>
 	
  </br>
-##Next planned Projects to upload
+ 
+## Next planned Projects to upload
 <table>
 <td>
 <ol>
@@ -107,6 +108,7 @@ Here are some ideas to get you started:
 </td>
 	
 </table>
+
 ## On Progress Thesis, Projects
 <table>
 <td>
