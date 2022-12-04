@@ -38,6 +38,10 @@ Here are some ideas to get you started:
                 <a href='https://wa.me/+4915782178521'>
  <img align="left"  alt="Mohamed Mesto | gmail" width="40px" height='40px' src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c543.png"/>
       </a>    
+	      <a href='https://t.me/IngMoMst'>
+ <img align="left"  alt="Mohamed Mesto | gmail" width="40px" height='40px' src=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg"/>
+      </a>    
+	   
       <br/>
 <br/>
       <h2 font-color='red'>Skills : </h2>
