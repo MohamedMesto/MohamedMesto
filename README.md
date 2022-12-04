@@ -33,15 +33,11 @@ Here are some ideas to get you started:
 	    
 	    
   <a href='https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&su=subject+message&to=mohamedmesto111@gmail.com'>
- <img align="left"  alt="Mohamed Mesto | gmail" width="48px" height='48px' src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/googlemail-icon.png"/>
-      </a> 
-                <a href='https://wa.me/+4915782178521'>
- <img align="left"  alt="Mohamed Mesto | gmail" width="40px" height='40px' src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c543.png"/>
-      </a>    
-	      <a href='https://t.me/IngMoMst'>
- <img align="left"  alt="Mohamed Mesto | gmail" width="40px" height='40px' src=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg"/>
-      </a>    
-	   
+ <img align="left"  alt="Mohamed Mesto | Youtube" width="48px" height='48px' src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/googlemail-icon.png"/>
+      </a>
+	    <a href='https://t.me/IngMoMst'>
+ <img align="left"  alt="Mohamed Mesto | Telegram" width="40px" height='40px' src="https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/telegram-icon.png"/>
+      </a>
       <br/>
 <br/>
       <h2 font-color='red'>Skills : </h2>
