@@ -140,7 +140,9 @@ Stereotype-free representation of “IT Security Administrator""</li>
 <li><a href="https://github.com/MohamedMesto/QualityandUsabilitySeminarStatistics-in-HCI-QU-SEM">QualityandUsabilitySeminarStatistics-in-HCI-QU-SEM</a>: "Quality and Usability Seminar Statistics-in-HCI-QU-SEM
 "</li>	
 
+<li><a href="https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py"Statistical-Analysis-and-Engineering-Acoustics-Py</a>: "Statistical Analysis and Engineering Acoustics "</li>
 	
+	Statistical-Analysis-and-Engineering-Acoustics-Py
 <li> ...</li>
 <li> ... upload soon</li>
 </ol>
