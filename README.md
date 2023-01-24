@@ -142,7 +142,7 @@ Stereotype-free representation of “IT Security Administrator""</li>
 
 <li><a href="https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py"> Statistical-Analysis-and-Engineering-Acoustics-Py</a>: "Statistical Analysis and Engineering Acoustics "</li>
 	
-<li> ...</li>
+
 <li> ... upload soon</li>
 </ol>
 </td>
