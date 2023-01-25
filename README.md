@@ -144,7 +144,7 @@ Stereotype-free representation of “IT Security Administrator""</li>
 	
 <li><a href="https://github.com/MohamedMesto/CrossWord-Schneiderlein-De">CrossWord-Schneiderlein-De </a>: "tailor Crossword
 in German "</li>
-CrossWord-Schneiderlein-De 
+
 
 <li> ... upload soon</li>
 </ol>
