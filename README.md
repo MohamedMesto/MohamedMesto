@@ -110,10 +110,6 @@ Here are some ideas to get you started:
     <div class="px-video-controls"></div>
 </div>
  
-@TippsausEuropa 
-[![Tips From Europe](https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/Heilfasten-OttoBuchinger.png)](https://www.youtube.com/watch?v=b122ta41eqY&t=67s)
-
-
 
 
 ## Next planned Projects to upload
