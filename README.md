@@ -92,6 +92,30 @@ Here are some ideas to get you started:
 	
  </br>
  
+<link rel="stylesheet" href="/css/px-video.css" />
+<div class="px-video-container" id="myvid">
+    <div class="px-video-img-captions-container">
+        <div class="px-video-captions hide" aria-hidden="true"></div>
+        <video width="640" height="360" poster="media/foo.jpg" controls>
+            <source src="foo.mp4" type="video/mp4" />
+            <source src="foo.webm" type="video/webm" />
+            <track kind="captions" label="English captions" src="media/foo.vtt" srclang="en" default />
+            <div>
+                <a href="https://www.youtube.com/watch?v=b122ta41eqY&t=11s">
+                    <img src="media/foo.jpg" width="640" height="360" alt="download video" />
+                </a>
+            </div>
+        </video>
+    </div>
+    <div class="px-video-controls"></div>
+</div>
+ 
+@TippsausEuropa 
+[![Tips From Europe](https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/Heilfasten-OttoBuchinger.png)](https://www.youtube.com/watch?v=b122ta41eqY&t=67s)
+
+
+
+
 ## Next planned Projects to upload
 <table>
 <td>
