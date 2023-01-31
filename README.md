@@ -95,7 +95,7 @@ Here are some ideas to get you started:
  </br>
 <h1>My Youtube channel<a href="https://www.youtube.com/c/TippsausEuropa">@Tips from Europe</a></font></h1>
 
-[![Tips From Europe](https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/Heilfasten-OttoBuchinger.png)](https://www.youtube.com/watch?v=b122ta41eqY&t=67s)
+[![Tips From Europe](https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/Heilfasten-OttoBuchinger)](https://www.youtube.com/watch?v=b122ta41eqY&t=67s)
 
 
 ![](https://skyline.github.com/mohamedmesto/2022)
