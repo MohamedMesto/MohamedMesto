@@ -76,10 +76,7 @@ Here are some ideas to get you started:
      <td border=0>
       <img src='https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/MMM2050Profile.png'/ width=800 hight= 400>
       </td>
-    </tr>  
-    </table>
-
-<table>
+    </tr>
 </br></br>
 <table style="width:100%">
   <tr>
@@ -88,7 +85,6 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/MohamedMesto/count.svg)
 </th> 
   </tr>
- 
 </table>
 	
 	
