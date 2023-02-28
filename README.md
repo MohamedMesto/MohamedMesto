@@ -66,8 +66,9 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
 </th> 
   </tr>
 </table>
-<h1>My Youtube channel<a href="https://www.youtube.com/c/TippsausEuropa">@Tips from Europe</a></font></h1>
-<h3>Most of the Hollywood Stars start to practice the following activity since years</h3>
+<h1>My Youtube channel<a href="https://www.youtube.com/c/TippsausEuropa">@Tips from Europe</a> 
+<h3>Most of the Hollywood Stars start to practice the following activity since years</h3><h1>Therapeutic Fasting</font></h1>
+<h3>Heilfasten,Therapeutic Fasting - Otto Buchinger #Heilfasten #Fasting</h3>
 
 [![Tips From Europe](https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/heilfasten_profile.png)](https://www.youtube.com/watch?v=b122ta41eqY&t=67s)
 
