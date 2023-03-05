@@ -105,8 +105,7 @@ Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstl
 </ol>
 </td>	
 </table>
-	
-	
+		
 ## Thesis, Projects and Seminars:
 <table>
 <td>
