@@ -132,7 +132,7 @@ Stereotype-free representation of “IT Security Administrator""</li>
 
 <li><a href="https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py"> Statistical-Analysis-and-Engineering-Acoustics-Py</a>: "Statistical Analysis and Engineering Acoustics "</li>
 	
-<li><a href="https://github.com/MohamedMesto/CrossWord-Schneiderlein-De">CrossWord-Schneiderlein-De </a>: "tailor Crossword
+<li><a href="https://github.com/MohamedMesto/CrossWord-Schneiderlein-De">CrossWord-Schneiderlein-De </a>: "Tailor Crossword
 in German "</li>
 
 
