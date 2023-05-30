@@ -123,8 +123,7 @@ AWT-PJ-ss22-Video-Streaming-Mixer-Library-1</a> : Video Streaming Mixer Library<
 <li><a href="https://github.com/MohamedMesto/AdvancedWebTech-Synchronization-of-Web-Application-with-Broadcast-TV">AdvancedWebTech-Synchronization-of-Web-Application-with-Broadcast-TV</a> : "Synchronization of Web Application with Broadcast TV"</li>
 <li><a href="https://github.com/MohamedMesto/Visualization-In-Digital-Occupation-Latex-Atlas.ti">Visualization-In-Digital-Occupation-Latex-Atlas.ti</a>: "Visualization In Digital Occupation- 
 Stereotype-free representation of “IT Security Administrator""</li>
-<li><a href="https://github.com/MohamedMesto/Service-Based-Architecture-Study">Service-Based-Architecture-Study</a>: "Service Based Architecture Study Seminar
-"</li>
+<li><a href="https://github.com/MohamedMesto/Service-Based-Architecture-Study">Service-Based-Architecture-Study</a>: "Service Based Architecture Study Seminar"</li>
 <li><a href="https://github.com/MohamedMesto/Co_existence_of_WiFi_at_5_GHz">Co_existence_of_WiFi_at_5_GHz</a>: "Co existence of WiFi at 5 GHz Seminar"</li>		
 <li><a href="https://github.com/MohamedMesto/QualityandUsabilitySeminarStatistics-in-HCI-QU-SEM">QualityandUsabilitySeminarStatistics-in-HCI-QU-SEM</a>: "Quality and Usability Seminar Statistics-in-HCI-QU-SEM"</li>	
 
