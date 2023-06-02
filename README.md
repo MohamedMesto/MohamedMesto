@@ -80,7 +80,6 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
 <table>
 <td>
 <ol>
- 
 <li> Framework of exporting Coloab  Py and Latex to PDF with refernces</li>
 <li> QU LAB AI Algorithm supervised Learning using Py</li>
 <li> OpenGL and VC++ app</li>
