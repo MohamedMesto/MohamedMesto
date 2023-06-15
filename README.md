@@ -19,7 +19,7 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
       </a>
       </br>
 </br>
-      <h2 font-color='red'>Skills : </h2>
+<h2 font-color='red'>Skills : </h2>
  <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/h6aqmdr.png" />
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/paxvoXx.png" />
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/FSBocCs.png" />
