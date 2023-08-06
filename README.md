@@ -86,7 +86,6 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
 <li> Ebdaa-Co website using PHP, HTML, CSS and JS </li>
 	
 </ol>
-		
 </td>
 </table>
 
