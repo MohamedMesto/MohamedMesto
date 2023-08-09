@@ -121,7 +121,6 @@ AWT-PJ-ss22-Video-Streaming-Mixer-Library-1</a> : Video Streaming Mixer Library<
 <li><a href="https://github.com/MohamedMesto/CrossWord-Schneiderlein-De">CrossWord-Schneiderlein-De </a>: "Tailor Crossword in German "</li>
 
 <li> ... upload soon</li>
-
 </ol>
 </td>
 </table>
