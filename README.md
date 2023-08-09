@@ -86,7 +86,6 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
 </ol>
 </td>
 </table>
-
 ## On Progress Thesis, Projects, Apps
 <table>
 <td>
