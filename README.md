@@ -102,7 +102,6 @@ Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstl
 ## Thesis, Projects and Seminars:
 <table>
 <td>
-	
 <ol>
 <li><a href="https://github.com/MohamedMesto/MasterThesis-Comparative-Analysis-of-OS-5G-Core-Implementations-Design-and-Evaluation-of-5G-Testbed">MasterThesis-Comparative-Analysis-of-OS-5G-Core-Implementations-Design-and-Evaluation-of-5G-Testbed</a> : " Comparative Analysis of Open Source 5G Core Implementations and Design and Evaluation of a 5G Testbed for Industrial Communication Master’s Thesis shortened Draft"</li>
 	
