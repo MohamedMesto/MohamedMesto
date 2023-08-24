@@ -74,7 +74,6 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
 
 ## Next planned Projects to upload
 <table>
-	
 	<td>
 <ol>
 <li> Framework of exporting Coloab  Py and Latex to PDF with refernces</li>
