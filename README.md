@@ -106,7 +106,6 @@ Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstl
 <li><a href="https://github.com/MohamedMesto/MasterThesis-Comparative-Analysis-of-OS-5G-Core-Implementations-Design-and-Evaluation-of-5G-Testbed">MasterThesis-Comparative-Analysis-of-OS-5G-Core-Implementations-Design-and-Evaluation-of-5G-Testbed</a> : " Comparative Analysis of Open Source 5G Core Implementations and Design and Evaluation of a 5G Testbed for Industrial Communication Master’s Thesis shortened Draft"</li>
 	
 <li><a href="https://github.com/MohamedMesto/MasterThesis-QU-DFKI-Accented-Speech-Recognition-ASR"> MasterThesis-QU-DFKI-Accented-Speech-Recognition-AccSR</a>: "Master Thesis in Accented Speech Recognition AccSR"</li>
-	
 <li><a href="https://github.com/MohamedMesto/AWT-PJ-ss22-Video-Streaming-Mixer-Library-1">
 AWT-PJ-ss22-Video-Streaming-Mixer-Library-1</a> : Video Streaming Mixer Library</li>
 <li><a href="https://github.com/MohamedMesto/AdvancedWebTech-Synchronization-of-Web-Application-with-Broadcast-TV">AdvancedWebTech-Synchronization-of-Web-Application-with-Broadcast-TV</a> : "Synchronization of Web Application with Broadcast TV"</li>
