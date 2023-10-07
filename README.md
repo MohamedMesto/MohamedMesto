@@ -20,7 +20,6 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
 
 
 
-
  </br>
 </br>
 <h2 font-color='red'>Skills : </h2>
