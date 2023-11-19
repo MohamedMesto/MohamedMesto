@@ -94,7 +94,7 @@ Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstl
  <li><a href="https://github.com/MohamedMesto/ASR-Accent-Analysis-De">ASR-Accent-Analysis-De: </a>Accented Speech Recognition Analysis- German Accents</li>
 <li>Translate Web site - Abix Package from De to Tr using PHP, HTML, CSS and JS</li>
 </ol>
-</td>	
+</td>	 
 </table>
 
 ## Thesis, Projects and Seminars:
