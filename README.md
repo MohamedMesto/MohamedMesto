@@ -49,7 +49,6 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
       </td>
     </tr>
 </br> 
-
 </br>
 <table style="width:100%">
   <tr>
