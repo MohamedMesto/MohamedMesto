@@ -84,7 +84,7 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
 </table>
 ## On Progress Thesis, Projects, Apps
 <table>
-<td>
+<td> 
 <ol>
 <li><a href="https://github.com/MohamedMesto/MasterThesis-QU-DFKI-comparison-in-between-Emformer">MasterThesis-QU-DFKI-Accented-Speech-Recognition-ASR: </a>Master Thesis - Accented Speech Recognition by Institut für Softwaretechnik und Theoretische Informatik
 Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstliche Intelligenz <b>DFKI</b></li>
