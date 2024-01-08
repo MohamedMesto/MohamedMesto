@@ -50,7 +50,7 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
     </tr>        
 </br>          
 </br>
-<table style="width:100%">
+<table style="width:100%"> 
   <tr>
     <th align="center">
 	    
