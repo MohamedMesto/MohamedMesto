@@ -80,7 +80,7 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
 <li> Red Cross and red Crescent Management System App using c# and SQL server</li>
 <li> Ebdaa-Co website using PHP, HTML, CSS and JS </li>
 </ol>
-</td>
+</td> 
 </table>
 ## On Progress Thesis, Projects, Apps
 <table>
