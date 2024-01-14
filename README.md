@@ -14,7 +14,7 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
  </br>                           
 </br>        
 <h2 font-color='red'>Skills : </h2>
- <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/h6aqmdr.png" />
+ <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/h6aqmdr.png" /> 
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/paxvoXx.png" />
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/FSBocCs.png" />
  <img align="left"  alt="Mohamed Mesto" width="75px" height='50px' src="https://www.nicepng.com/png/full/34-345908_html-css-icon-png.png" /> 
