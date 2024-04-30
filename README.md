@@ -86,9 +86,7 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
 <table>
 <td> 
 <ol>
-<li><a href="https://github.com/MohamedMesto/MasterThesis-QU-DFKI-comparison-in-between-Emformer">MasterThesis-QU-DFKI-Accented-Speech-Recognition-ASR: </a>Master Thesis - Accented Speech Recognition by Institut für Softwaretechnik und Theoretische Informatik
-Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstliche Intelligenz <b>DFKI</b></li>
- <li><a href="https://github.com/MohamedMesto/ASR-Accent-Analysis-De">ASR-Accent-Analysis-De: </a>Accented Speech Recognition Analysis- German Accents</li>
+
 <li>Translate Web site - Abix Package from De to Tr using PHP, HTML, CSS and JS</li>
 </ol>
 </td>	 
@@ -110,6 +108,9 @@ AWT-PJ-ss22-Video-Streaming-Mixer-Library-1</a> : Video Streaming Mixer Library<
 <li><a href="https://github.com/MohamedMesto/QualityandUsabilitySeminarStatistics-in-HCI-QU-SEM">QualityandUsabilitySeminarStatistics-in-HCI-QU-SEM</a>: "Quality and Usability Seminar Statistics-in-HCI-QU-SEM"</li>	
 <li><a href="https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py"> Statistical-Analysis-and-Engineering-Acoustics-Py</a>: "Statistical Analysis and Engineering Acoustics"</li>
 <li><a href="https://github.com/MohamedMesto/CrossWord-Schneiderlein-De">CrossWord-Schneiderlein-De </a>: "Tailor Crossword in German "</li>
+<li><a href="https://github.com/MohamedMesto/MasterThesis-QU-DFKI-comparison-in-between-Emformer">MasterThesis-QU-DFKI-Accented-Speech-Recognition-ASR: </a>Master Thesis - Accented Speech Recognition by Institut für Softwaretechnik und Theoretische Informatik
+Quality and Usability Lab <b>QU</b> and Deutsches Forschungszentrum für Künstliche Intelligenz <b>DFKI</b></li>
+ <li><a href="https://github.com/MohamedMesto/ASR-Accent-Analysis-De">ASR-Accent-Analysis-De: </a>Accented Speech Recognition Analysis- German Accents</li>
 <li> ... upload soon</li>
 </ol>
 
