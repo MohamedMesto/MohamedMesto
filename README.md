@@ -2,7 +2,7 @@
 I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Python, AI algorithm, MySQL, C#, SQLServer, VC++, OpenGL, API, VB, Oracle DB, and Oracle UI. But I have used early to upload my projects to several servers/hosts, e.g., Gitlab, Gitlab Tu Berlin,  Github, and others. You will not find projects right now showing my basic skills. But I am going to upload them day by day...  
 <table border=0>                                                                             
   <tr border=0>                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-    <td border=0>                                             
+    <td border=0>                                             	
 <h5> welcome to you 😀, feel free to contact me at:</h5> 
 	 <a href='https://www.linkedin.com/in/mohamedmesto/'>
  <img align="left"  alt="Mohamed Mesto | LinkedIn" width="55px" height='55px' src="https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/linkedin-120x120.png" /> </a> 
@@ -14,34 +14,34 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
  </br>                                            
 </br>                              
 <h2 font-color='red'>Skills : </h2>
- <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/h6aqmdr.png" /> 
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/paxvoXx.png" />
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/FSBocCs.png" />
- <img align="left"  alt="Mohamed Mesto" width="75px" height='50px' src="https://www.nicepng.com/png/full/34-345908_html-css-icon-png.png" /> 
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/JZmC3LO.png" />
-<img align="left"  alt="Mohamed Mesto" width="60px" height='60px' src="https://i.imgur.com/3xTEkgK.png" />
+ <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/js.png" /> 
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/nordjs.png" />
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/react.png" />
+ <img align="left"  alt="Mohamed Mesto" width="75px" height='50px' src="Images/Html_js_css.png" /> 
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/firebase.png" />
+<img align="left"  alt="Mohamed Mesto" width="60px" height='60px' src="Images/postgre_sql.png" />
 <img align="left"  alt="Mohamed Mesto" width="70px" height='50px' src="Images/Mongodb2.png"/>
 <br/>             
 <br/>                                                
 <br/>        
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/AnQOB3J.png" />
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png"/>
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://www.codeplusinfo.com/wp-content/uploads/2020/02/react-native-logo-e1581157043920.png" />
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.imgur.com/6zcZb8U.png" />
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/wordpress-icon.png" />    
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://www.pawprint.net/images/news/1-4fac83467069c.png" />
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://i.pinimg.com/600x315/84/9b/2d/849b2d319488d6df76e3b46c7fb39fb8.jpg"/>	     
-  <img align="left"  alt="Mohamed Mesto"  width="50px" height='50px' src="https://www.iconshock.com/image/Vista/3d_graphics/opengl" /> 
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/api.png">
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/npm.png"/>
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/react_native.jpeg" />
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/ui_ux.png" />
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/wordpress.png" />    
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/php.png" />
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/mysql.jpeg"/>	     
+  <img align="left"  alt="Mohamed Mesto"  width="50px" height='50px' src="Images/opengl.png" /> 
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/Ts.png" />
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://d2eip9sf3oo6c2.cloudfront.net/playlists/square_covers/000/432/674/square_480/egghead-practical-git-course.png" />
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/live_server_git.png" />
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/Py.png" />
 <!-- <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://img.freepik.com/free-vector/artificial-intelligence-concept-circuit-board-background-with-ai-logo-illustration_257312-1368.jpg?w=2000" />-->
-    <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/AI.png" />
- <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="https://icon-library.com/images/vb-net-icon/vb-net-icon-2.jpg"  />
-    <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="http://clipart-library.com/data_images/560021.jpg"/>
- <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="https://icon-library.com/images/vb-net-icon/vb-net-icon-0.jpg"/>
-    <img align="left"  alt='Mohamed Mesto'  width="50px" height='60px' src="https://www.tectrain.at/uploads/herstellerkat_oracle.png"/>
-    <img align="left"  alt="Mohamed Mesto" width="100px" height='60px' src="https://mpng.subpng.com/20180625/vaa/kisspng-android-studio-mobile-app-development-studio-logo-5b30df8d235306.2910428315299296131447.jpg"/>
+    <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/AI.png" />
+ <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="Images/vb_net.jpeg"  />
+    <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/sql_server.jpeg"/>
+ <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="Images/vb.jpeg"/>
+    <img align="left"  alt='Mohamed Mesto'  width="50px" height='60px' src="Images/oracle.jpg"/>
+    <img align="left"  alt="Mohamed Mesto" width="100px" height='60px' src="Images/android-studio.png"/>
 <img align="left"  alt="Mohamed Mesto" width="160px" height='60px' src="Images/AtlasTi.png"/>
     </td> 
      <td border=0>
