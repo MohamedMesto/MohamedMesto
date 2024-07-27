@@ -16,7 +16,7 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
 <h2 font-color='red'>Skills : </h2>
  <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/js.png" /> 
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/nordjs.png" />
-<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/react.png" />
+<img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/React.png" />
  <img align="left"  alt="Mohamed Mesto" width="75px" height='50px' src="Images/Html_js_css.png" /> 
 <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/firebase.png" />
 <img align="left"  alt="Mohamed Mesto" width="60px" height='60px' src="Images/postgre_sql.png" />
