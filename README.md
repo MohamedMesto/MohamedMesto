@@ -40,7 +40,7 @@ I have done projects using HTML, CSS, JS, PHP, WordPress, Node.JS, MongoDB, Pyth
  <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="Images/vb_net.jpeg"  />
     <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/sql_server.jpeg"/>
  <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="Images/vb.jpeg"/>
-    <img align="left"  alt='Mohamed Mesto'  width="50px" height='60px' src="Images/oracle.jpg"/>
+    <img align="left"  alt='Mohamed Mesto'  width="50px" height='50px' src="Images/oracle.jpg"/>
     <img align="left"  alt="Mohamed Mesto" width="50px" height='50px' src="Images/android-studio.png"/>
 <img align="left"  alt="Mohamed Mesto" width="160px" height='50px' src="Images/AtlasTi.png"/>
     </td> 
